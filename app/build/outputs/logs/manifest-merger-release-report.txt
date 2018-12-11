@@ -1,0 +1,175 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/volkman/Programs/bundleError/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/volkman/Programs/bundleError/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/volkman/Programs/bundleError/app/src/main/AndroidManifest.xml:2:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/volkman/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.2.aar/a5a726db0971156706c57390ff6d9b93/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:1.11.0] /Users/volkman/.gradle/caches/transforms-1/files-1.1/jetified-fresco-1.11.0.aar/76c5650ba50a64d9243cbf3a5432f66b/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.11.0] /Users/volkman/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.11.0.aar/cf9e628b5c7a257c3e4cf8fafba52818/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/volkman/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0.aar/2794a5e6c7ef71941e4a47e5a28a971f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/volkman/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0.aar/b1a46d0fb4d2a5928846f5b35c816480/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/volkman/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/7a2f94c4d74dd1d406cf3d4d5d144137/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/volkman/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/95843904078a9b302301f4f351607947/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/volkman/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.1.aar/9e2091aef93f2a14e68ea5d7e0c03c2a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/volkman/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/416438999269f379497700a886979854/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/volkman/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/5f3a18553bf2258b00e64dac151b9e82/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/volkman/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/e85a7e3679e9556fab32f107e2e766b3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/volkman/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/5c8235d57a9489a6ea9198ab44126b04/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/volkman/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/d6eef439d0622cc22055eb6950e6b591/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/volkman/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/050a61370e7224a4470614e3d7ad8d47/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/volkman/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/67cdeb13016c5ca79819093a625cbcf0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/volkman/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/52d5809583c3864802125a8e715aa3dd/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] /Users/volkman/.gradle/caches/transforms-1/files-1.1/core-1.0.1.aar/e24710cd8a836297d36c5bec3727dd3b/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/volkman/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/7507e85c400545105a1fbaa2f4efde48/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/volkman/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/dae3d8ea09ca03a74689bc4f16f9dc0d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/volkman/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/84e9fe55736e3b17da35e4bac6de7fb3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/volkman/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/bee77b439f0110b051fdb74f98fded15/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/volkman/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/9215808728026da7b69134d637c676df/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/volkman/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/f74d4722360765fa118bff318673dd61/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/volkman/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/c202b77525804d7d65ec23bf3e4d124c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/volkman/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/e2869e2f22b807e558e05c57e55e62a2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/volkman/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/f890f7d497bf07c1a38d9d2b12ec1242/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/volkman/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/fb617fe413c29d73dccad0e0bc8a725f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/volkman/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/90888b2b34d4e9b536d4273ecbda91e4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:drawee:1.11.0] /Users/volkman/.gradle/caches/transforms-1/files-1.1/jetified-drawee-1.11.0.aar/fbe2afa203a64feb71f2ff23963e9815/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:1.11.0] /Users/volkman/.gradle/caches/transforms-1/files-1.1/nativeimagefilters-1.11.0.aar/8788a30dc2a4c4c1c89fa0b6d6e48158/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.11.0] /Users/volkman/.gradle/caches/transforms-1/files-1.1/jetified-imagepipeline-1.11.0.aar/6b04cf3276e1d068c107a3f0e1ca0636/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.11.0] /Users/volkman/.gradle/caches/transforms-1/files-1.1/jetified-imagepipeline-base-1.11.0.aar/70531f7a65f1540ca3c8f325c71c5707/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:fbcore:1.11.0] /Users/volkman/.gradle/caches/transforms-1/files-1.1/jetified-fbcore-1.11.0.aar/bd41d1749ce358a337eed3b9300bbe12/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/volkman/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/dd72dd695a78d48eac3030c47d71cf7b/AndroidManifest.xml:2:1-13:12
+INJECTED from /Users/volkman/Programs/bundleError/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/volkman/Programs/bundleError/app/src/main/AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from /Users/volkman/Programs/bundleError/app/src/main/AndroidManifest.xml:3:5-42
+	android:versionName
+		INJECTED from /Users/volkman/Programs/bundleError/app/src/main/AndroidManifest.xml
+		ADDED from /Users/volkman/Programs/bundleError/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /Users/volkman/Programs/bundleError/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/volkman/Programs/bundleError/app/src/main/AndroidManifest.xml
+		ADDED from /Users/volkman/Programs/bundleError/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /Users/volkman/Programs/bundleError/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/volkman/Programs/bundleError/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/volkman/Programs/bundleError/app/src/main/AndroidManifest.xml:5:3-64
+	android:name
+		ADDED from /Users/volkman/Programs/bundleError/app/src/main/AndroidManifest.xml:5:20-62
+application
+ADDED from /Users/volkman/Programs/bundleError/app/src/main/AndroidManifest.xml:7:3-22:17
+MERGED from [androidx.core:core:1.0.1] /Users/volkman/.gradle/caches/transforms-1/files-1.1/core-1.0.1.aar/e24710cd8a836297d36c5bec3727dd3b/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] /Users/volkman/.gradle/caches/transforms-1/files-1.1/core-1.0.1.aar/e24710cd8a836297d36c5bec3727dd3b/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/volkman/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/7507e85c400545105a1fbaa2f4efde48/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/volkman/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/7507e85c400545105a1fbaa2f4efde48/AndroidManifest.xml:22:5-23:19
+MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/volkman/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/dd72dd695a78d48eac3030c47d71cf7b/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/volkman/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/dd72dd695a78d48eac3030c47d71cf7b/AndroidManifest.xml:11:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] /Users/volkman/.gradle/caches/transforms-1/files-1.1/core-1.0.1.aar/e24710cd8a836297d36c5bec3727dd3b/AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from /Users/volkman/Programs/bundleError/app/src/main/AndroidManifest.xml:10:7-39
+	android:roundIcon
+		ADDED from /Users/volkman/Programs/bundleError/app/src/main/AndroidManifest.xml:11:7-52
+	android:icon
+		ADDED from /Users/volkman/Programs/bundleError/app/src/main/AndroidManifest.xml:9:7-41
+	android:theme
+		ADDED from /Users/volkman/Programs/bundleError/app/src/main/AndroidManifest.xml:12:7-38
+	android:name
+		ADDED from /Users/volkman/Programs/bundleError/app/src/main/AndroidManifest.xml:8:7-62
+activity#com.android.bug.bundle.MainActivity
+ADDED from /Users/volkman/Programs/bundleError/app/src/main/AndroidManifest.xml:14:5-21:16
+	android:launchMode
+		ADDED from /Users/volkman/Programs/bundleError/app/src/main/AndroidManifest.xml:16:9-40
+	android:name
+		ADDED from /Users/volkman/Programs/bundleError/app/src/main/AndroidManifest.xml:15:9-59
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/volkman/Programs/bundleError/app/src/main/AndroidManifest.xml:17:7-20:23
+action#android.intent.action.MAIN
+ADDED from /Users/volkman/Programs/bundleError/app/src/main/AndroidManifest.xml:18:9-60
+	android:name
+		ADDED from /Users/volkman/Programs/bundleError/app/src/main/AndroidManifest.xml:18:17-58
+category#android.intent.category.LAUNCHER
+ADDED from /Users/volkman/Programs/bundleError/app/src/main/AndroidManifest.xml:19:9-68
+	android:name
+		ADDED from /Users/volkman/Programs/bundleError/app/src/main/AndroidManifest.xml:19:19-66
+uses-sdk
+INJECTED from /Users/volkman/Programs/bundleError/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/volkman/Programs/bundleError/app/src/main/AndroidManifest.xml
+INJECTED from /Users/volkman/Programs/bundleError/app/src/main/AndroidManifest.xml
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/volkman/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.2.aar/a5a726db0971156706c57390ff6d9b93/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/volkman/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.2.aar/a5a726db0971156706c57390ff6d9b93/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:1.11.0] /Users/volkman/.gradle/caches/transforms-1/files-1.1/jetified-fresco-1.11.0.aar/76c5650ba50a64d9243cbf3a5432f66b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.11.0] /Users/volkman/.gradle/caches/transforms-1/files-1.1/jetified-fresco-1.11.0.aar/76c5650ba50a64d9243cbf3a5432f66b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.11.0] /Users/volkman/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.11.0.aar/cf9e628b5c7a257c3e4cf8fafba52818/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.11.0] /Users/volkman/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.11.0.aar/cf9e628b5c7a257c3e4cf8fafba52818/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/volkman/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0.aar/2794a5e6c7ef71941e4a47e5a28a971f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/volkman/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0.aar/2794a5e6c7ef71941e4a47e5a28a971f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/volkman/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0.aar/b1a46d0fb4d2a5928846f5b35c816480/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/volkman/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0.aar/b1a46d0fb4d2a5928846f5b35c816480/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/volkman/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/7a2f94c4d74dd1d406cf3d4d5d144137/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/volkman/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/7a2f94c4d74dd1d406cf3d4d5d144137/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/volkman/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/95843904078a9b302301f4f351607947/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/volkman/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/95843904078a9b302301f4f351607947/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/volkman/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.1.aar/9e2091aef93f2a14e68ea5d7e0c03c2a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/volkman/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.1.aar/9e2091aef93f2a14e68ea5d7e0c03c2a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/volkman/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/416438999269f379497700a886979854/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/volkman/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/416438999269f379497700a886979854/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/volkman/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/5f3a18553bf2258b00e64dac151b9e82/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/volkman/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/5f3a18553bf2258b00e64dac151b9e82/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/volkman/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/e85a7e3679e9556fab32f107e2e766b3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/volkman/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/e85a7e3679e9556fab32f107e2e766b3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/volkman/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/5c8235d57a9489a6ea9198ab44126b04/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/volkman/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/5c8235d57a9489a6ea9198ab44126b04/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/volkman/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/d6eef439d0622cc22055eb6950e6b591/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/volkman/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/d6eef439d0622cc22055eb6950e6b591/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/volkman/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/050a61370e7224a4470614e3d7ad8d47/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/volkman/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/050a61370e7224a4470614e3d7ad8d47/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/volkman/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/67cdeb13016c5ca79819093a625cbcf0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/volkman/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/67cdeb13016c5ca79819093a625cbcf0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/volkman/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/52d5809583c3864802125a8e715aa3dd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/volkman/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/52d5809583c3864802125a8e715aa3dd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/volkman/.gradle/caches/transforms-1/files-1.1/core-1.0.1.aar/e24710cd8a836297d36c5bec3727dd3b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/volkman/.gradle/caches/transforms-1/files-1.1/core-1.0.1.aar/e24710cd8a836297d36c5bec3727dd3b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/volkman/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/7507e85c400545105a1fbaa2f4efde48/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/volkman/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/7507e85c400545105a1fbaa2f4efde48/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/volkman/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/dae3d8ea09ca03a74689bc4f16f9dc0d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/volkman/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/dae3d8ea09ca03a74689bc4f16f9dc0d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/volkman/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/84e9fe55736e3b17da35e4bac6de7fb3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/volkman/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/84e9fe55736e3b17da35e4bac6de7fb3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/volkman/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/bee77b439f0110b051fdb74f98fded15/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/volkman/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/bee77b439f0110b051fdb74f98fded15/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/volkman/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/9215808728026da7b69134d637c676df/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/volkman/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/9215808728026da7b69134d637c676df/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/volkman/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/f74d4722360765fa118bff318673dd61/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/volkman/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/f74d4722360765fa118bff318673dd61/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/volkman/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/c202b77525804d7d65ec23bf3e4d124c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/volkman/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/c202b77525804d7d65ec23bf3e4d124c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/volkman/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/e2869e2f22b807e558e05c57e55e62a2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/volkman/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/e2869e2f22b807e558e05c57e55e62a2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/volkman/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/f890f7d497bf07c1a38d9d2b12ec1242/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/volkman/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/f890f7d497bf07c1a38d9d2b12ec1242/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/volkman/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/fb617fe413c29d73dccad0e0bc8a725f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/volkman/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/fb617fe413c29d73dccad0e0bc8a725f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/volkman/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/90888b2b34d4e9b536d4273ecbda91e4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/volkman/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/90888b2b34d4e9b536d4273ecbda91e4/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:drawee:1.11.0] /Users/volkman/.gradle/caches/transforms-1/files-1.1/jetified-drawee-1.11.0.aar/fbe2afa203a64feb71f2ff23963e9815/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.11.0] /Users/volkman/.gradle/caches/transforms-1/files-1.1/jetified-drawee-1.11.0.aar/fbe2afa203a64feb71f2ff23963e9815/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:1.11.0] /Users/volkman/.gradle/caches/transforms-1/files-1.1/nativeimagefilters-1.11.0.aar/8788a30dc2a4c4c1c89fa0b6d6e48158/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:1.11.0] /Users/volkman/.gradle/caches/transforms-1/files-1.1/nativeimagefilters-1.11.0.aar/8788a30dc2a4c4c1c89fa0b6d6e48158/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.11.0] /Users/volkman/.gradle/caches/transforms-1/files-1.1/jetified-imagepipeline-1.11.0.aar/6b04cf3276e1d068c107a3f0e1ca0636/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.11.0] /Users/volkman/.gradle/caches/transforms-1/files-1.1/jetified-imagepipeline-1.11.0.aar/6b04cf3276e1d068c107a3f0e1ca0636/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.11.0] /Users/volkman/.gradle/caches/transforms-1/files-1.1/jetified-imagepipeline-base-1.11.0.aar/70531f7a65f1540ca3c8f325c71c5707/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.11.0] /Users/volkman/.gradle/caches/transforms-1/files-1.1/jetified-imagepipeline-base-1.11.0.aar/70531f7a65f1540ca3c8f325c71c5707/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.11.0] /Users/volkman/.gradle/caches/transforms-1/files-1.1/jetified-fbcore-1.11.0.aar/bd41d1749ce358a337eed3b9300bbe12/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.11.0] /Users/volkman/.gradle/caches/transforms-1/files-1.1/jetified-fbcore-1.11.0.aar/bd41d1749ce358a337eed3b9300bbe12/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/volkman/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/dd72dd695a78d48eac3030c47d71cf7b/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/volkman/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/dd72dd695a78d48eac3030c47d71cf7b/AndroidManifest.xml:7:5-9:41
+INJECTED from /Users/volkman/Programs/bundleError/app/src/main/AndroidManifest.xml
+INJECTED from /Users/volkman/Programs/bundleError/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/volkman/Programs/bundleError/app/src/main/AndroidManifest.xml
+		ADDED from /Users/volkman/Programs/bundleError/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/volkman/Programs/bundleError/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/volkman/Programs/bundleError/app/src/main/AndroidManifest.xml
+		ADDED from /Users/volkman/Programs/bundleError/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/volkman/Programs/bundleError/app/src/main/AndroidManifest.xml
