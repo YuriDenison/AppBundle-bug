@@ -1,5 +1,7 @@
 === The Android plugin AppBundle Bug ===
 
+Sample project for https://issuetracker.google.com/u/1/issues/120779852.
+
 If application contains native libraries like Fresco, app will crash on start if installed with AppBundle.
 
 Tested on emulator Android 9.0 x86_64, Galaxy S9 and many more devices from release with 50% crash-free :(
